@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/network/MessageStruct.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>11</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/klaus/NetBeansProjects/Blockchain%20Voting%20System/src/blockchain/Block.java</file>
+            <file>file:/home/klaus/NetBeansProjects/Blockchain%20Voting%20System/src/network/MessageStruct.java</file>
+            <file>file:/home/klaus/NetBeansProjects/Blockchain%20Voting%20System/src/main/Main.java</file>
+            <file>file:/home/klaus/NetBeansProjects/Blockchain%20Voting%20System/src/network/ServerManager.java</file>
+            <file>file:/home/klaus/NetBeansProjects/Blockchain%20Voting%20System/src/network/ClientManager.java</file>
+            <file>file:/home/klaus/NetBeansProjects/Blockchain%20Voting%20System/src/network/NetworkManager.java</file>
+            <file>file:/home/klaus/NetBeansProjects/Blockchain%20Voting%20System/src/network/ServerHandler.java</file>
+        </group>
+    </open-files>
+</project-private>
